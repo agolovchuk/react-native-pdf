@@ -32,6 +32,6 @@
         "prop-types": "^15.5.10"
     },
     "peerDependencies": {
-        "rn-fetch-blob": "github:joltup/rn-fetch-blob#master"
+        "rn-fetch-blob": "github:joltup/rn-fetch-blob#v0.10.12"
     }
 }
